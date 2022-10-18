@@ -3,5 +3,5 @@ Our main files will include your main header file (main.h): #include main.h
 You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf
 
 Authors:
-        Nwabueze Franklin https://github.com/NwabuezeFranklin 
-        Ifeoluwa Atansieye https://github.com/Asiwajuife
+        Fuad Oluwaniyi Adeshina https://github.com/fuadoluwaniyi 
+        Morrelli https://github.com/morrelli
